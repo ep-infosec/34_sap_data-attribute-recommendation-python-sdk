@@ -1,0 +1,2 @@
+# see docs/requirements.txt
+pre-commit==2.13.0
